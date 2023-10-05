@@ -2,10 +2,16 @@
     border: 0;
     background-image: url(./img/pattern.png); 
     background-color: rgb(38, 128, 232);
-    
-    
+    border: 0;
+    }
+
+#The_Booleaner {
+        color: rgb(45, 121, 171);
+        
+    }
+
+#Ghost {
+    color: gray; 
+    text-align: left; 
 }
-
-
-
-
+    
