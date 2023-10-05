@@ -15,3 +15,7 @@
     text-align: left; 
 }
     
+#list_a {
+    list-style-type: none;
+    text-align: left;
+}
