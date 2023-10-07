@@ -1,3 +1,7 @@
+.html {
+    text-align: left;
+}
+
 .logo {
     border: 0;
     background-image: url(./img/pattern.png); 
@@ -14,8 +18,20 @@
     color: gray; 
     text-align: left; 
 }
+
+#Date {
+    color: gray; 
+    text-align: left; 
+    font-size: small;
+}
     
 #list_a {
     list-style-type: none;
+    list-style-position: unset;
     text-align: left;
+    }
+
+#list_b {
+    
 }
+
