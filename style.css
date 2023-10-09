@@ -1,5 +1,5 @@
 .html {
-    text-align: left;
+    margin
 }
 
 .logo {
@@ -30,3 +30,12 @@
     list-style-position: unset;
     text-align: left;
     }
+
+    .tab1 {
+        background-color: rgba(0, 106, 255, 0.615);
+        color: antiquewhite;
+        text-align: center;
+       
+       
+    }   
+    
