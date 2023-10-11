@@ -1,16 +1,11 @@
-.html {
-    margin
-}
-
 .logo {
-    border: 0;
     background-image: url(./img/pattern.png); 
     background-color: rgb(38, 128, 232);
     border: 0;
     }
 
 #The_Booleaner {
-        color: rgb(45, 121, 171);
+    color: rgb(45, 121, 171);
         
     }
 
@@ -31,11 +26,9 @@
     text-align: left;
     }
 
-    .tab1 {
-        background-color: rgba(0, 106, 255, 0.615);
-        color: antiquewhite;
-        text-align: center;
-       
-       
-    }   
+.tab1 {
+    background-color: rgba(0, 106, 255, 0.615);
+    color: antiquewhite;
+    text-align: center;
+       }   
     
