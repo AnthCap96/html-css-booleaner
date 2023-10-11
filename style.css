@@ -1,7 +1,11 @@
+
+
 .logo {
     background-image: url(./img/pattern.png); 
     background-color: rgb(38, 128, 232);
     border: 0;
+    width: 40cm;
+    height: 80px;
     }
 
 #The_Booleaner {
@@ -10,25 +14,32 @@
     }
 
 #Ghost {
-    color: gray; 
-    text-align: left; 
+    color: gray;  
+    text-align: left;
 }
 
 #Date {
     color: gray; 
-    text-align: left; 
     font-size: small;
 }
     
 #list_a {
     list-style-type: none;
     list-style-position: unset;
-    text-align: left;
+    margin-left: -1cm;
     }
+
+#list_b {
+    margin-left: -20px;
+}   
 
 .tab1 {
     background-color: rgba(0, 106, 255, 0.615);
     color: antiquewhite;
-    text-align: center;
-       }   
+    padding-right: 920px;
+       } 
+
+#space {
+    padding-left: 6cm;
+       }
     
