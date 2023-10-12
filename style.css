@@ -62,5 +62,28 @@ main {
 
 .w50 {
     width: 50%;
+    text-align: left;
+}
+
+.tab2 {
+    background-color: aquamarine;
+    width: 100%;
+}
+
+footer {
+    padding: 5px;
 }
     
+.img2 {
+    background-image: url(./img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    color: white;
+}
+
+.img3 {
+    background-image: url(./img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    color: white;
+}
